@@ -13,8 +13,6 @@ In this **real-time DevOps project**, I implemented how to **deploy a Swiggy Clo
 
 ---
 
-### 📹 Video Link: [**Click Here**](https://youtu.be/x55z7rk0NAU?si=gM1_61wUoq3ChiHD)
-
 ### 📂 Terraform Script Repository: [**Terraform Script for Swiggy Clone App**](https://github.com/juhisinha422/Terraform-Script-Swiggy.git)
 
 ---
