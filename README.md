@@ -18,3 +18,9 @@ In this **real-time DevOps project**, I implemented how to **deploy a Swiggy Clo
 ---
 
 > “DevOps is not just a job; it's a journey to continuously improve processes and automate solutions.” 
+
+<img width="1895" height="880" alt="Image" src="https://github.com/user-attachments/assets/739855a1-2ddd-4fb6-903d-353fd98ae76b" />
+
+<img width="1897" height="862" alt="Image" src="https://github.com/user-attachments/assets/71c91865-3757-4383-adf2-b0b791b26cfc" />
+
+<img width="1857" height="873" alt="Image" src="https://github.com/user-attachments/assets/f2d8d9b5-2330-4af7-bf46-e2a5b209d55e" />
