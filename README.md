@@ -19,4 +19,4 @@ In this **real-time DevOps project**, I implemented how to **deploy a Swiggy Clo
 
 ---
 
-> “DevOps is not just a job; it's a journey to continuously improve processes and automate solutions.” – **Kastro**
+> “DevOps is not just a job; it's a journey to continuously improve processes and automate solutions.” 
